@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ana FAQ</string>
+    <string name="button_question_1">Ma mai iubesti?</string>
+    <string name="button_question_2">Cat de mult?</string>
+    <string name="answer_yes">DA</string>
+    <string name="answer_lots">MULT!</string>
+</resources>
+

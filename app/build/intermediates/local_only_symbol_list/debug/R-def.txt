@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color pink
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+id btnQuestion
+id confettiView
+id heartsContainer
+id mainLayout
+id tvAnswer
+layout activity_main
+string answer_yes
+string app_name
+string button_question_1
+string button_question_2
+style Theme.RomanticApp

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.romanticapp.love.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.romanticapp.love.app-main-33:/layout/activity_main.xml"
+    }
+]

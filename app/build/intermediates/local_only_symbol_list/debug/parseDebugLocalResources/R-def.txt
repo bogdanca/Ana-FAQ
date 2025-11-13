@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color ic_launcher_background
+color pink
+color purple_200
+color purple_500
+color purple_700
+color red
+color teal_200
+color teal_700
+color white
+drawable background_gradient
+drawable ic_launcher_foreground
+id btnQuestion
+id confettiView
+id heartsContainer
+id mainLayout
+id tvAnswer
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw heart
+string answer_lots
+string answer_yes
+string app_name
+string button_question_1
+string button_question_2
+style Theme.RomanticApp

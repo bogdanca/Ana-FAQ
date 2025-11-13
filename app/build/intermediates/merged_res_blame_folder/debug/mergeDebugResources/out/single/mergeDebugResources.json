@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.romanticapp.love.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.romanticapp.love.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.romanticapp.love.app-debug-31:/drawable_background_gradient.xml.flat",
+        "source": "com.romanticapp.love.app-main-33:/drawable/background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\raw_heart.mp3.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\raw\\heart.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Victor\\.gradle\\daemon\\9.0-milestone-1\\com.romanticapp.love.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
