@@ -1,4 +1,4 @@
-# Romantic App - Android Application
+
 
 Made for my gf to automate my response to her asking if I love her.
 
