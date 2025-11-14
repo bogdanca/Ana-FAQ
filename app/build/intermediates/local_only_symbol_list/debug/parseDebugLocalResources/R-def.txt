@@ -17,6 +17,7 @@ id btnQuestion
 id confettiView
 id heartsContainer
 id mainLayout
+id pukingEmojiContainer
 id tvAnswer
 layout activity_main
 mipmap ic_launcher

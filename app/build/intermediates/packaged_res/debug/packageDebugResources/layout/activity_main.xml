@@ -51,5 +51,12 @@
         android:layout_height="match_parent"
         android:visibility="gone" />
 
+    <!-- Puking Emoji Container -->
+    <FrameLayout
+        android:id="@+id/pukingEmojiContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 

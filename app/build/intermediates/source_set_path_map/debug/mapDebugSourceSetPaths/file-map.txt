@@ -25,11 +25,11 @@ com.romanticapp.love.app-constraintlayout-2.1.4-23 C:\Users\Victor\.gradle\cache
 com.romanticapp.love.app-appcompat-1.6.1-24 C:\Users\Victor\.gradle\caches\9.0-milestone-1\transforms\ee89fcd732c0d201f19f3fb1b0745627\transformed\appcompat-1.6.1\res
 com.romanticapp.love.app-jetified-savedstate-1.2.1-25 C:\Users\Victor\.gradle\caches\9.0-milestone-1\transforms\f61d68b6051a3325dda4cc88d7163b16\transformed\jetified-savedstate-1.2.1\res
 com.romanticapp.love.app-cardview-1.0.0-26 C:\Users\Victor\.gradle\caches\9.0-milestone-1\transforms\fb47a7194265b77851c8e3871366d864\transformed\cardview-1.0.0\res
-com.romanticapp.love.app-pngs-27 C:\Users\Victor\Desktop\Ana FAQ\app\build\generated\res\pngs\debug
-com.romanticapp.love.app-resValues-28 C:\Users\Victor\Desktop\Ana FAQ\app\build\generated\res\resValues\debug
-com.romanticapp.love.app-updated_navigation_xml-29 C:\Users\Victor\Desktop\Ana FAQ\app\build\generated\updated_navigation_xml\debug
-com.romanticapp.love.app-packageDebugResources-30 C:\Users\Victor\Desktop\Ana FAQ\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.romanticapp.love.app-packageDebugResources-31 C:\Users\Victor\Desktop\Ana FAQ\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.romanticapp.love.app-debug-32 C:\Users\Victor\Desktop\Ana FAQ\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.romanticapp.love.app-debug-33 C:\Users\Victor\Desktop\Ana FAQ\app\src\debug\res
-com.romanticapp.love.app-main-34 C:\Users\Victor\Desktop\Ana FAQ\app\src\main\res
+com.romanticapp.love.app-pngs-27 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\generated\res\pngs\debug
+com.romanticapp.love.app-resValues-28 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\generated\res\resValues\debug
+com.romanticapp.love.app-updated_navigation_xml-29 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\generated\updated_navigation_xml\debug
+com.romanticapp.love.app-packageDebugResources-30 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.romanticapp.love.app-packageDebugResources-31 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.romanticapp.love.app-debug-32 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.romanticapp.love.app-debug-33 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\src\debug\res
+com.romanticapp.love.app-main-34 C:\Users\Victor\Desktop\Ana FAQ\Ana-FAQ\app\src\main\res

@@ -35,17 +35,21 @@ public final class ActivityMainBinding implements ViewBinding {
   public final ConstraintLayout mainLayout;
 
   @NonNull
+  public final FrameLayout pukingEmojiContainer;
+
+  @NonNull
   public final TextView tvAnswer;
 
   private ActivityMainBinding(@NonNull ConstraintLayout rootView,
       @NonNull MaterialButton btnQuestion, @NonNull ConfettiView confettiView,
       @NonNull FrameLayout heartsContainer, @NonNull ConstraintLayout mainLayout,
-      @NonNull TextView tvAnswer) {
+      @NonNull FrameLayout pukingEmojiContainer, @NonNull TextView tvAnswer) {
     this.rootView = rootView;
     this.btnQuestion = btnQuestion;
     this.confettiView = confettiView;
     this.heartsContainer = heartsContainer;
     this.mainLayout = mainLayout;
+    this.pukingEmojiContainer = pukingEmojiContainer;
     this.tvAnswer = tvAnswer;
   }
 
@@ -96,6 +100,12 @@ public final class ActivityMainBinding implements ViewBinding {
 
       ConstraintLayout mainLayout = (ConstraintLayout) rootView;
 
+      id = R.id.pukingEmojiContainer;
+      FrameLayout pukingEmojiContainer = ViewBindings.findChildViewById(rootView, id);
+      if (pukingEmojiContainer == null) {
+        break missingId;
+      }
+
       id = R.id.tvAnswer;
       TextView tvAnswer = ViewBindings.findChildViewById(rootView, id);
       if (tvAnswer == null) {
@@ -103,7 +113,7 @@ public final class ActivityMainBinding implements ViewBinding {
       }
 
       return new ActivityMainBinding((ConstraintLayout) rootView, btnQuestion, confettiView,
-          heartsContainer, mainLayout, tvAnswer);
+          heartsContainer, mainLayout, pukingEmojiContainer, tvAnswer);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
