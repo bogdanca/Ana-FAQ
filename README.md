@@ -1,4 +1,4 @@
-# Romantic App - Android Application
+
 
 Made for my gf to automate my response to her asking if I love her.
 
@@ -9,7 +9,7 @@ Made for my gf to automate my response to her asking if I love her.
   
 - **Second Button**: Appears after the first animation
   - Shows "Cat de mult?" (How much?)
-  - When pressed, displays "DA" with hearts and confetti for 5 seconds
+  - When pressed, displays "MULT!" with hearts and confetti for 5 seconds
   
 - **Auto Reset**: After 10 seconds total, the app resets to the original screen
 
